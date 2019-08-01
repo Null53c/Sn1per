@@ -155,9 +155,6 @@ sniper -t <TARGET>
 * **WEBPORTHTTPS:** Launches a full HTTPS web application scan against a specific host and port.
 * **WEBSCAN:** Launches a full HTTP & HTTPS web application scan against via Burpsuite and Arachni.
 
-## SAMPLE REPORT:
-https://gist.github.com/1N3/8214ec2da2c91691bcbc
-
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (@xer0dayz @XeroSecurity) and is not for commercial use or resold and rebranded. Permission to distribute any part of the code for sale is strictly prohibited.
 
